@@ -1,0 +1,18 @@
+[
+  {
+    "Origin": "Oberhasli, ZH",
+    "Destination": "Zurich HB"
+  },
+  {
+    "Origin": "Oberhasli, ZH",
+    "Destination": "Zurich Hardbruecke"
+  },
+  {
+    "Origin": "Alten, ZH",
+    "Destination": "Zurich HB"
+  },
+  {
+    "Origin": "Alten, ZH",
+    "Destination": "Zurich Hardbruecke"
+  }
+]
